@@ -49,5 +49,3 @@ Desenvolver uma base sólida em tecnologia por meio de projetos acadêmicos e pr
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitscandido@gmail.com)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF6EC7,100:FF1493&animation=twinkling&section=footer"/>
