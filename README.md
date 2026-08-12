@@ -52,12 +52,6 @@ Aqui você encontrará projetos pessoais e acadêmicos envolvendo:
 
 ---
 
-### 🎯 Atualmente
-
-Aprofundando meus conhecimentos em **SQL, Python, Power BI e tecnologias de dados**, enquanto desenvolvo projetos práticos para consolidar minha experiência em Data & Analytics.
-
----
-
 ### 📫 Contato
 
 <div align="left">
